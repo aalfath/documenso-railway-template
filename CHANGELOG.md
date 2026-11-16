@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.22.0-railway.2 (2026-11-16)
+
+- README: Deploy on Railway button linking to the published template `documenso-2`. No change to the image or the entrypoint.
+
 ## 2.22.0-railway.1 (2026-11-16)
 
 - First release of the template: Documenso v2.22.0 (`documenso/documenso:v2.22.0@sha256:f9976d2142d34ee89506e161b0a5ec859a0c327f3fe0a398b46d3941fc8dd35e`) with Railway's Postgres.

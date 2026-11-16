@@ -1,5 +1,7 @@
 # Documenso on Railway
 
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/documenso-2?utm_medium=integration&utm_source=button&utm_campaign=documenso)
+
 A one-click Railway template for [Documenso](https://github.com/documenso/documenso), the open-source document signing platform (an alternative to DocuSign).
 
 This repo builds the official image `documenso/documenso:v2.22.0`, pinned by digest, with a small entrypoint. Railway builds the Documenso service from this repo, so a merge to `main` shows up as an "update available" notice for everyone who deployed the template. Read [CHANGELOG.md](CHANGELOG.md) before you apply an update.
